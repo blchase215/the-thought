@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Psuedo scratchpad files
+psuedo

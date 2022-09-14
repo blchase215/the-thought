@@ -4,17 +4,21 @@
   "description": "a social network app (yes, another one, I'm sorry)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.13"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.9"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/blchase215/the-thought.git"
   },
-  "keywords": [],
+  
   "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/blchase215/the-thought/issues"
-  },
   "homepage": "https://github.com/blchase215/the-thought#readme"
 }
