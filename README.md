@@ -1,9 +1,7 @@
 # The Thought
-a social network app 
+a social network api 
 
 ###### (yes, another one, I'm sorry)
-<br/>
-
 ## Links
 
 ---
